@@ -1,0 +1,133 @@
+hr{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.h5-contact,.contact{
+  color: #087e8b;
+}
+.get-in-touch-p{
+    line-height: 2;
+    opacity: 0.7;
+}.abouth1{
+  font-size: 2.5rem;
+}
+.get-in-touch-section{
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.get-intouch,.contact-me{
+    font-family: serif;
+    padding-left: 120px;
+    font-weight: 900;
+}.get-p{
+    padding-right: 100px;
+}.contact-me{
+    margin-right: 100px;
+    padding-top: 100px;
+}
+  
+  
+  .contact {
+    margin-top: 3.2rem;
+    margin-bottom: 8rem;}
+    
+    
+    .contact-form {
+      margin-top: 1.5rem;
+      }
+    
+      .input-group {
+        margin-bottom: 1.5rem;
+      }.form-label {
+          margin-bottom: 0.5rem;
+        }
+      
+  
+      .input-field {
+        background-color: #E5E5E6;
+        height: 4.8rem;
+        width: 100%;
+        padding: .9rem 1.6rem;
+        color:#33323D;
+        font-size: 1rem;
+        outline: none;
+        border: 1px solid transparent;
+        height: 50px;
+        } 
+        
+        .input-field-textarea {
+          height: 9.6rem;
+        }
+      
+  
+      .error {
+        border-color:red;
+      }
+  
+      .input-field:focus {
+        border-color:green;
+      }
+    
+  
+  
+  .error {
+    border-color:red ;
+    font-size: 1rem;
+    
+    font-style: italic;
+    
+    }
+  .hide{
+    display: none;
+    color: red;
+
+  }.show{
+    display: block;
+    color:red;
+    margin-bottom: -20px;
+    font-size: 13px;
+  }
+ .contact-textarea{
+      height: 100px;
+  }.contact-btn{
+      height: 42px;
+      width: 200px;
+      background-color:#203a4c;
+      color:white;
+  }.contact-btn:hover{
+      color: black;
+      background-color: white;
+  }h6{
+    font-family:'Public Sans', sans-serif;
+       font-weight: 600;
+   
+  }
+  
+  
+  
+  @media(max-device-width:500px){
+.get-in-touch-section{
+  margin-left: 20px;
+  width: 430px;
+  }
+.get-intouch,.contact-me{
+  padding-left: 30px;
+}.contact-me{
+  margin-left: 20px;
+  margin-top: -50px;
+}.contact-form{
+  margin-left: 10px;
+  margin-right: 10px;
+}.contactmelink{
+  margin-top: -13px;
+}hr{
+  display: block;
+  margin-right: 20px;
+  margin-left: 20px;
+}.contact{
+  margin-top: -15px;
+}.linkicons{
+  margin-top: -100px;
+}
+  }

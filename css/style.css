@@ -1,0 +1,245 @@
+.navbar-toggler:focus{
+outline: none;
+}
+
+.abouth1{
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.navbar{
+    padding-top: 50px;
+    margin-right: 100px;
+    margin-left: 130px;
+    
+}
+
+
+h5{
+    color:black;
+    display: inline;
+    font-size: 0.9rem;
+  letter-spacing: 1px;
+  
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Public Sans', sans-serif;
+  text-decoration: none;
+  -webkit-transition: 300ms ease-in-out color;
+  transition: 300ms ease-in-out color;
+}
+h5:hover{
+    color: #087e8b;
+}
+.navigtion{
+    margin-top: 50px;
+}
+.homepageimg{
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    
+}.homeimg{
+    width: 100%;
+
+   }.hometext{
+       position: absolute;
+       width: 36%;
+       background-color: white;
+       top: 335px;
+       left: 120px;
+       padding-top: 30px;
+       padding-right: 50px;
+       
+       
+   }.h3home{
+       font-size: 50px;
+       font-family: "Ibarra Real Nova", serif;
+       font-weight: 700;
+       letter-spacing: -0.45px;
+   }
+   .btn-about-me{
+       margin-top: 30px;
+       background-color:#203a4c;
+       color: white;
+       width: 190px;
+       height: 45px;
+   }.arrowimg{
+       margin-left: 10px;
+       margin-right: 20px;
+   }
+   .btn-about-me:hover{
+   background-color:#087e8b;
+   color:white;}
+   .profileimg{
+       width: 120%;
+       margin-left: 50px;
+       margin-top: 60px;
+   }.aboutme-text{
+       
+       margin-top: 120px;
+       padding-top: 50px;
+       margin-left: 220px;  
+       line-height: 1.5;
+       border-bottom-style:ridge;
+       border-top-style: ridge;
+       border-right-style: none;
+   }.pabout{
+       opacity: 0.8;
+   }
+   .aboutbtn{
+       margin-top: 20px;
+       background-color:#fafafa;
+       height: 48px;
+       width: 190px;
+       font-family:  "Public Sans", sans-serif;
+       font-size: 1.2rem;
+       letter-spacing: 2px;
+       margin-bottom: 20px;
+       
+   }.aboutbtn:hover{
+       background-color:#33323d;
+       color: white;
+   }
+   .section-middle-h2{
+    margin-left: 120px;
+     margin-top: 120px;  
+   }.interst-h2{
+       font-size: 40px;
+       line-height: 42px;
+       letter-spacing: -0.36px;
+       font-weight: 550;
+   }
+   .section-middle-hr{
+       margin-left: -25px;
+       margin-right: 30px;
+   }
+   .section-middle{
+       margin-top: 150px;
+      }.btn{
+       width: 170px;
+       height: 48px;
+       background-color: #fafafa;
+       color: black;
+       font-family: "Public Sans", sans-serif;
+       font-size: 20px;
+       
+   }
+   .btn:hover{
+       background-color: #33323d;
+   }h6{
+       display: inline;
+       margin-left: 30px;
+       color: white;
+       font-family:'Public Sans', sans-serif;
+       font-weight: 600;
+   }
+       footer{
+       margin-top: 120px;
+       border: 1px solid;
+       padding-top: 30px;
+       background-color: #33323D;
+       padding-bottom: 20px;
+   }
+   .footerlogo{
+      margin-left: 120px;
+      margin-top: 0px;
+      }.linkicons{
+       margin-left: 450px;
+      }.twitter{
+       
+       margin-left: 20px;
+margin-right: 20px;
+    }ion-icon{
+        color: white;
+        font-size: 23px;
+    }ion-icon:hover{
+color: #087e8b;
+    }.fa{
+        margin-right: 13px;
+    }.tel-link{
+       color: black;
+    }.fa:hover{
+        color: #087e8b;
+    }
+    @media(max-device-width:500px){
+         .navbar{
+            margin-right: 10px;
+            margin-left: 10px;
+        }.navbar-nav{
+            margin-left: 0px;
+            padding-left: 0;
+        }
+        .homeimg{
+            display: none;
+            margin-top:50px;
+            width: 140%;
+            margin-left: 0px;
+            height: 230px;
+        }.hometext{
+            padding-top: 0;
+            margin-left: -100px;
+            top: 520px;
+            width: 90%;
+            padding-left: 20px;
+           }.h3home{
+               font-size: 2rem;
+           } 
+        .homepageimg{
+            margin-top: 30px;
+            background-image: url("../images/image-homepage-hero.jpg");
+          width: 460px;
+          height: 450px;
+margin-left: 40px;
+background-repeat: no-repeat;
+margin-right: 20px;
+        }.profileimg{
+            margin-left: 20px;
+            margin-top: 100px;
+            width:300px;
+        }.aboutme-text{
+            margin-left: 30px;
+            font-size: 18px;
+            margin-top: 30px;
+            margin-right: 30px;
+            padding-bottom: 40px;
+        }.aboutbtn{
+            width: 250px;
+            height: 40px;
+        }.section-middle-h2{
+            margin-left: 50px;
+            margin-top: 50px;
+            
+        }.interst-h2{
+            font-size: 30px;
+        }
+        .section-middle{
+            margin-top: 20px;
+            margin-left: 140px;
+        }hr{
+            display: none;
+        }h6{
+            display: block;
+            margin-left: 170px;
+        }.footerlogo{
+            margin-bottom: 20px;
+            margin-left: 150px;
+        }.porf-bot{
+            margin-left: 160px;
+            font-size: 18px;
+        }.home-bot{
+            margin-left: 167px;
+            margin-bottom: 20px;
+            font-size: 18px;
+        }.linkicons{
+            margin-top: 12px;
+            margin-left: 120px;
+            padding-bottom: 20px;
+        }.btn{
+            margin-left:-40px;
+        }.contact{
+            font-weight: 800;
+            margin-top: -10px;
+            margin-left: 160px;
+        }
+    }

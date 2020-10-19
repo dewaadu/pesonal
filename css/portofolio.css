@@ -1,0 +1,137 @@
+.h5second,.porf-bot{
+    color: #087e8b;
+}
+.porto-img{
+    width: 100%;
+    padding-bottom: 0px;
+    
+}.container-port{
+    margin-top: 30px;
+}
+
+
+.port-text{
+    margin-left: 120px;
+    line-height: 2;
+    padding-top: 70px;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+}.port-text2{
+    margin-left: 0px;
+}.title{
+    font-size: 3rem;
+  line-height: 4.2rem;
+  letter-spacing: -0.36px;
+  font-weight:700;
+  font-family: 'Ibarra Real Nova', serif;
+
+}.body{
+    font-size: 1.2rem;
+    line-height: 2rem;
+    letter-spacing: 0;
+    font-weight:200;
+    font-family: 'Public Sans', sans-serif;
+    opacity: 0.7;
+}
+
+.port-pad{
+    
+    width: 100%;
+    padding-top: 70px;
+    
+    
+}.port-pad2{
+    margin-left: 180px;
+}
+.btn-pro{
+    margin-top: 20px;
+    border-style: ridge;
+    width: 180px;
+    height: 47px;
+    background-color:#fafafa;
+    margin-bottom: 60px;
+    letter-spacing: 2px;
+    font-family: "Public Sans", sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+}.btn-pro:hover{
+    background-color:#33323d;
+    color: white;
+}.rest-row{
+    margin-top: 100px;
+}.row{
+    margin-left: 20px;
+}#portofolio-slide-show{
+    margin-top: 100px;
+   background-color: #fafafa;
+}.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color:#087e8b;
+}
+
+.slide-text{
+    margin-left: 100px;
+    margin-bottom: 40px;
+}.slide-text2{
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+.slide-img{
+    margin-left: 40px;
+    margin-bottom: 60px;
+}.slide-img2{
+    margin-left: 80px;
+    margin-right: 10px;
+    margin-bottom: 60px;
+}
+.footer-icons{
+    margin-left: 450px;
+    padding-top: 30px;
+}@media(max-device-width:500px){
+    .port-text{
+        margin-top: 20px;
+        padding-top: 50px;
+        text-align: center;
+        margin-left: 10px;
+        margin-right: 20px;
+        padding-top: 20px;
+    }.porto-img{
+        padding-top: 10px;
+        margin-right: 30px;
+        margin-left: -20px;
+    }.imglogo{
+        margin-left: 20px;
+        margin-bottom: 0px;
+    }.mobimg{
+        position: absolute;
+        bottom: 560px;
+        right: 10px;
+        width: 190%;
+    }.mobtext{
+        margin-top: 270px;
+    }.easy-img{
+        margin-top: 100px;
+    }.dice-port-text{
+        padding-top: -100px;
+    }.dice-port{
+        margin-top: -50px;
+    }
+    .rest-row{
+        margin-top: 10px;
+    }.slide-text{
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }.footerlogo{
+        margin-left: 130px;
+    }.home-bot{
+        margin-left: 140px;
+    }.bot-link{
+        margin-left: 130px;
+        margin-bottom: 20px;
+    }.contact{
+        margin-top: -20px;
+    }.linkicons{
+        margin-left: 100px;
+    }.port-pad{
+        padding-top: 10px;
+    }
+}
