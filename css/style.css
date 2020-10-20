@@ -12,6 +12,8 @@ outline: none;
     margin-right: 100px;
     margin-left: 130px;
     
+}.row{
+    margin-right: 5px;
 }
 
 
@@ -46,7 +48,7 @@ h5:hover{
        position: absolute;
        width: 36%;
        background-color: white;
-       top: 335px;
+       top: 350px;
        left: 120px;
        padding-top: 30px;
        padding-right: 50px;
@@ -128,6 +130,7 @@ h5:hover{
    .btn:hover{
        background-color: #33323d;
    }h6{
+    text-transform: uppercase;
        display: inline;
        margin-left: 30px;
        color: white;
@@ -145,7 +148,7 @@ h5:hover{
       margin-left: 120px;
       margin-top: 0px;
       }.linkicons{
-       margin-left: 450px;
+       margin-left: 400px;
       }.twitter{
        
        margin-left: 20px;
@@ -204,8 +207,8 @@ margin-right: 20px;
             margin-right: 30px;
             padding-bottom: 40px;
         }.aboutbtn{
-            width: 250px;
-            height: 40px;
+            width: 200px;
+            height: 49px;
         }.section-middle-h2{
             margin-left: 50px;
             margin-top: 50px;
