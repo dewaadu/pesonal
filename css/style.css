@@ -143,7 +143,7 @@ h5:hover{
        padding-top: 30px;
        background-color: #33323D;
        padding-bottom: 20px;
-   }
+      }
    .footerlogo{
       margin-left: 120px;
       margin-top: 0px;
@@ -191,9 +191,9 @@ color: #087e8b;
         .homepageimg{
             margin-top: 30px;
             background-image: url("../images/image-homepage-hero.jpg");
-          width: 460px;
+          width: 330px;
           height: 450px;
-margin-left: 40px;
+margin-left: 20px;
 background-repeat: no-repeat;
 margin-right: 20px;
         }.profileimg{
@@ -207,7 +207,7 @@ margin-right: 20px;
             margin-right: 30px;
             padding-bottom: 40px;
         }.aboutbtn{
-            width: 200px;
+            width: 170px;
             height: 49px;
         }.section-middle-h2{
             margin-left: 50px;
@@ -236,15 +236,17 @@ margin-right: 20px;
             font-size: 18px;
         }.linkicons{
             margin-top: 12px;
-            margin-left: 120px;
+            margin-left: 110px;
             padding-bottom: 20px;
         }.btn{
             margin-left:-40px;
         }.contact{
-            font-weight: 800;
+            font-weight: 900;
             margin-top: -10px;
             margin-left: 160px;
         }footer{
-            margin-right: -30px;
+            margin-right: -5px;
+            margin-bottom: 35px;
+   
         }
     }

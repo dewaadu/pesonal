@@ -102,11 +102,13 @@
         margin-bottom: 0px;
     }.mobimg{
         position: absolute;
-        bottom: 560px;
+        bottom: 580px;
         right: 10px;
         width: 190%;
+    }.mobimg2{
+        bottom: 650px;
     }.mobtext{
-        margin-top: 270px;
+        margin-top: 220px;
     }.easy-img{
         margin-top: 100px;
     }.dice-port-text{
@@ -129,7 +131,7 @@
     }.contact{
         margin-top: -20px;
     }.linkicons{
-        margin-left: 100px;
+        margin-left: 80px;
     }.port-pad{
         padding-top: 10px;
     }
