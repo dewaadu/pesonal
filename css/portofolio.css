@@ -83,10 +83,9 @@
     margin-right: 10px;
     margin-bottom: 60px;
 }
-.footer-icons{
-    margin-left: 450px;
-    padding-top: 30px;
-}@media(max-device-width:500px){
+.linkicons{
+    margin-left: 350px;
+ }@media(max-device-width:500px){
     .port-text{
         margin-top: 20px;
         padding-top: 50px;
