@@ -162,7 +162,10 @@ color: #087e8b;
         margin-right: 13px;
     }.tel-link{
        color: black;
-    }.fa:hover{
+    }.fa-footer{
+        color: white;
+    }
+    .fa:hover{
         color: #087e8b;
     }
     @media(max-device-width:500px){
