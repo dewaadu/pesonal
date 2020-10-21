@@ -106,7 +106,7 @@
         right: 10px;
         width: 190%;
     }.mobimg2{
-        bottom: 650px;
+        bottom: 580px;
     }.mobtext{
         margin-top: 220px;
     }.easy-img{
@@ -134,5 +134,7 @@
         margin-left: 80px;
     }.port-pad{
         padding-top: 10px;
+    }.light-landing{
+        font-size: 35px;
     }
 }
