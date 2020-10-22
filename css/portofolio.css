@@ -85,29 +85,29 @@
 }
 .linkicons{
     margin-left: 350px;
- }@media(max-device-width:500px){
+ }@media(max-device-width:400px){
     .port-text{
         margin-top: 20px;
         padding-top: 50px;
         text-align: center;
-        margin-left: 10px;
+        margin-left: 0px;
+        padding-right: 20px;
         margin-right: 20px;
         padding-top: 20px;
     }
     .porto-img{
         padding-top: 10px;
         margin-right: 30px;
-        margin-left: -20px;
+        padding-left:20px;
     }.imglogo{
         margin-left: 20px;
         margin-bottom: 0px;
     }.mobimg{
         position: absolute;
-        bottom: 580px;
-        right: 10px;
-        width: 190%;
-    }.mobimg2{
-        bottom: 520px;
+        top: -720px;
+        left: -140px;
+        }.mobimg2{
+        bottom: 450px;
         margin-bottom: 20px;
     }.mobtext{
         margin-top: 220px;
@@ -138,5 +138,75 @@
         padding-top: 10px;
     }.light-landing{
         font-size: 35px;
+    }.row{
+        margin-left: -10px;
+        margin-right: 10px;
+        }.container-port{
+            margin-left: 10px;
+            margin-right: 0px;
+        }.port-footer{
+            margin-right: 20px;
+        }
+}@media(max-device-width:500px){
+
+    .port-text{
+        margin-top: 20px;
+        padding-top: 50px;
+        text-align: center;
+        margin-left: 10px;
+        margin-right: 20px;
+        padding-top: 20px;
     }
+    .porto-img{
+        padding-top: 10px;
+        margin-right: 30px;
+        margin-left: -20px;
+    }.imglogo{
+        margin-left: 20px;
+        margin-bottom: 0px;
+    }.mobimg{
+        position: absolute;
+        bottom: 500px;
+        right: 0px;
+        width: 190%;
+        margin-bottom: 20px;
+       }.mob-easy{
+        margin-top: 60px;
+    }
+    
+    
+    .mobimg2{
+        bottom: 500px;
+        margin-bottom: 20px;
+    }.mobtext{
+        margin-top: 220px;
+    }.easy-img{
+        margin-top: 100px;
+    }.dice-port-text{
+        padding-top: -100px;
+    }.dice-port{
+        margin-top: -50px;
+    }
+    .rest-row{
+        margin-top: 10px;
+    }.slide-text{
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }.footerlogo{
+        margin-left: 130px;
+    }.home-bot{
+        margin-left: 140px;
+    }.bot-link{
+        margin-left: 130px;
+        margin-bottom: 20px;
+    }.contact{
+        margin-top: -20px;
+    }.linkicons{
+        margin-left: 80px;
+    }.port-pad{
+        padding-top: 10px;
+    }.light-landing{
+        font-size: 35px;
+   
+
 }
