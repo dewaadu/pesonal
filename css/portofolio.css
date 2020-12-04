@@ -103,16 +103,11 @@
         margin-left: 20px;
         margin-bottom: 0px;
     }.mobimg{
-        position: absolute;
-        top: -720px;
-        left: -160px;
         }.mobimg2{
-        bottom: 450px;
         margin-bottom: 20px;
     }.mobtext{
-        margin-top: 220px;
-    }.easy-img{
-        margin-top: 100px;
+        }.easy-img{
+order: 1;
     }.dice-port-text{
         padding-top: -100px;
     }.dice-port{
@@ -151,6 +146,8 @@
             margin-right: 50px;
         }footer{
             width: 99%;
+        }.port-pad2{
+            order: 1;
         }
 }@media(max-device-width:500px){
 
@@ -169,31 +166,31 @@
     }.imglogo{
         margin-left: 20px;
         margin-bottom: 0px;
-    }.mobimg{
-        position: absolute;
-        bottom: 500px;
-        right: 0px;
-        width: 190%;
-        margin-bottom: 20px;
-       }.mob-easy{
-        margin-top: 60px;
+    }.flex{
+        display: flex;
+        flex-wrap: wrap;
+    }.eas{
+        order: 0;
+        width: 90%;
+        margin-left: 20px;
+    }.eas2{
+        order: 1;
+    }.dice-img{
+        padding-top: 100px;
+    }.fylo-img{
+        width: 99%;
+        margin-left: -30px;
     }
     
-    
     .mobimg2{
-        bottom: 500px;
         margin-bottom: 20px;
-    }.mobtext{
-        margin-top: 220px;
-    }.easy-img{
-        margin-top: 100px;
     }.dice-port-text{
         padding-top: -100px;
     }.dice-port{
         margin-top: -50px;
     }
     .rest-row{
-        margin-top: 10px;
+        margin-top: 20px;
     }.slide-text{
         margin-left: 10px;
         margin-bottom: 10px;
@@ -208,7 +205,7 @@
         margin-top: -20px;
     }.linkicons{
         margin-left: 100px;
-    }.port-pad{
+      }.port-pad{
         padding-top: 10px;
     }.light-landing{
         font-size: 35px;
